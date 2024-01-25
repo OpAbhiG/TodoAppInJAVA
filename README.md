@@ -1,4 +1,3 @@
-Certainly! Below is a basic README file for your Java project. You can include this in your GitHub repository to provide users with information about your project.
 
 ```markdown
 # Customer Management System
