@@ -17,17 +17,10 @@ This Java project is a simple Customer Management System that allows users to pe
 To run this project locally, follow these steps:
 
 1. Make sure you have Java installed on your machine.
+
 2. Clone this repository:
 
-   ```bash
-   git clone https://github.com/your-username/CustomerManagementSystem.git
-   ```
-
 3. Navigate to the project directory:
-
-   ```bash
-   cd CustomerManagementSystem
-   ```
 
 4. Compile the Java files:
 
